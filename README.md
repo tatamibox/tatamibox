@@ -1,6 +1,6 @@
 ## Hello! My name is Eric, and I go by Tatami.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Eric](https://i.imgur.com/EHmkTZZ.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="[https://github.com/favicon.ico](https://i.imgur.com/EHmkTZZ.png)" width="">
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/tatamibox?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/tatamibox?color=1DA1F2&style=for-the-badge)
