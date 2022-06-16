@@ -10,8 +10,8 @@
 - ✔ I'm currently studying fullstack development, specifically the MERN stack 
 - 🤝 I'm looking to collaborate on projects that focus on a creative interface and overall direction
 - 💯 Follow my #100DaysOfCode journey on [twitter](https://twitter.com/tatamibox)
-- ✨ In my free time I enjoy binging anime shows, playing basketball, or putting together different outfits. 
+- ✨ In my free time I enjoy binging anime shows, playing basketball, and participating in streetwear.
 
 ### Languages and Tools
 
-<img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/nodejs.png"/><img src="https://img.icons8.com/office/344/react.png"/>
