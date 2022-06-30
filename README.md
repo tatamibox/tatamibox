@@ -7,7 +7,7 @@
 ![Linkedin: JulieFWebb](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/ericquesada02)
 
 
-- ✔ I'm studying fullstack web-dev, specifically the MERN stack. Currently focusing on React.js & Express.js
+- ✔ I'm studying fullstack web-dev, specifically the MERN stack. Currently focused on React.js :D
 - 🤝 I'm looking to collaborate on projects that focus on a creative interface and overall direction
 - 💯 Follow my #100DaysOfCode journey on [twitter](https://twitter.com/tatamibox)
 - ✨ In my free time I enjoy binging anime shows, playing basketball, and participating in streetwear.
