@@ -8,7 +8,7 @@
 
 - ✔ I'm studying fullstack web-dev, specifically the MERN stack. Currently focused on React.js :D
 - 🤝 I'm looking to collaborate on projects that focus on a creative interface and overall direction
-- 💯 Follow my #100DaysOfCode journey on [twitter](https://twitter.com/tatamibox)
+- 💯 Follow my #100DaysOfCode journey on [twitter](https://twitter.com/)
 - ✨ In my free time I enjoy cleaning my room, playing basketball, and participating in streetwear.
 
 ### Languages and Tools
