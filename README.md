@@ -1,4 +1,4 @@
-## Hello! My name is Eric, and I go by Tatami.
+## Hello! My name is Eric!
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/tatamibox?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)
